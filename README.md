@@ -1,2 +1,2 @@
 # ukol1
-Toto jsem založila protože jsem musela.
+Toto jsem založila, protože jsem musela.
