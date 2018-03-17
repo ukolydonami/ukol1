@@ -1,0 +1,50 @@
+    body {
+      padding: 80px;
+      border: solid;
+      background: lightgrey;
+    }
+    h1 {
+      text-align: center;
+      text-decoration: underline;
+      font-size: 50px;
+      font-style: normal;
+      font-family: Helvetica;
+      font-weight: bold;
+      line-height: normal;
+
+    }
+    h2 {
+      text-transform: uppercase;
+      font-family: Helvetica;
+      font-size: 20px;
+      text-align: justify;
+    }
+    p {
+      font-family: Helvetica;
+      margin: 5px;
+    }
+    li {
+      padding: 25px;
+    }
+    footer {
+      text-align: center;
+      font-weight: bold;
+      float: center;
+      
+    }
+    blockquote {
+      font-size: 16px;
+      font-family: Helvetica;
+    }
+    .zanr {
+      text-align: center;
+      padding: 10px;
+    }
+    .autor {
+      text-align: center;
+      padding: 10px;
+    }
+    .zdroj {
+      text-align: center;
+      padding: 10px;
+    }
