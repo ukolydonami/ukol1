@@ -1,3 +1,4 @@
+
 /* Především formátovací úpravy */
 body {
 	padding: 80px;
@@ -16,6 +17,31 @@ h1 {
 	font-family: Helvetica, sans-serif;*/
 	font-weight: bold;
 	line-height: normal;
+    body {
+      padding: 80px;
+      border: solid;
+      background: url('https://pre00.deviantart.net/d71d/th/pre/f/2010/128/0/5/blog_background_by_justiej.jpg');
+    }
+
+    div {
+	display: block;
+	width: 500px;
+	position: absolute;
+	left: 22%;
+	right: 30%;
+	overflow: visible;
+	justify-content: center;
+    }
+
+    h1 {
+      text-align: center;
+      text-decoration: underline;
+      font-size: 50px;
+      font-style: normal;
+      font-family: Helvetica;
+      font-weight: bold;
+      line-height: normal;
+
 
 }
 h2 {
