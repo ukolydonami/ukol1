@@ -1,8 +1,19 @@
     body {
       padding: 80px;
       border: solid;
-      background: lightgrey;
+      background: url('https://pre00.deviantart.net/d71d/th/pre/f/2010/128/0/5/blog_background_by_justiej.jpg');
     }
+
+    div {
+	display: block;
+	width: 500px;
+	position: absolute;
+	left: 22%;
+	right: 30%;
+	overflow: visible;
+	justify-content: center;
+    }
+
     h1 {
       text-align: center;
       text-decoration: underline;
